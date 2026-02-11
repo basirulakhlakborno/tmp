@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "vtubermodel.moc3",
 		"Textures": [
-			"vtubermodel.2048/texture_00.png"
+			"texture_00.png"
 		],
 		"Physics": "vtubermodel.physics3.json",
 		"DisplayInfo": "vtubermodel.cdi3.json"
